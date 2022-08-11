@@ -1,0 +1,10 @@
+public class Coche {
+  int puertas;
+  int incremento();
+  
+  public static voit main(string [] args) {
+    Coche miCoche = new Coche();
+    miCoche.puertas = 2;
+    
+  }
+}
